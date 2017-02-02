@@ -1,5 +1,5 @@
 #include "stdafx.h"
-#include "InputManager.h"
+#include "Idle.h"
 #include <iostream>
 
 #include "Jumping.h"

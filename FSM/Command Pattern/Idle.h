@@ -1,7 +1,7 @@
 #pragma once
 
-#include "command.h"
-#include "InputHandler.h"
+#include "Animation.h"
+#include "State.h"
 
 class Idle : public State
 {

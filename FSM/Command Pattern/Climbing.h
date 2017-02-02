@@ -1,8 +1,8 @@
 #pragma once
 
-#include "InputHandler.h"
-#include "InputManager.h"
-#include "command.h"
+#include "State.h"
+#include "Idle.h"
+#include "Animation.h"
 
 class Climbing : public State
 {

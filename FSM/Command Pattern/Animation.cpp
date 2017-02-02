@@ -1,6 +1,7 @@
 #include "stdafx.h"
-#include "Command.h"
-#include "InputManager.h"
+#include "State.h"
+#include "Idle.h"
+#include "Animation.h"
 
 Animation::Animation()
 {

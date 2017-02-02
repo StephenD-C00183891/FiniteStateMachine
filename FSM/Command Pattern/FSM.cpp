@@ -8,7 +8,9 @@
 #include <chrono>
 
 
-#include "InputHandler.h"
+#include "Animation.h"
+#include "State.h"
+#include "Idle.h"
 
 using namespace std;
 
